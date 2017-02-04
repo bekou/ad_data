@@ -6,4 +6,4 @@ Reconstructing the house from the ad: Structured prediction on real estate class
 
 The dataset includes 887,599 property advertisements from a real estate company and three human annotators manually annotated 2,318 ads by creating the property tree of the advertisements.
 
-We will upload the dataset before the conference.
+We will upload the anonymized dataset (removing personal information) before the conference.
