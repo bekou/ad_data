@@ -1,6 +1,6 @@
-# eacl-2017-dataset
+# eacl-2017-code-dataset
 
-The dataset used in the paper 
+The dataset and the code used in the paper 
 
 Reconstructing the house from the ad: Structured prediction on real estate classifieds.
 
@@ -14,5 +14,4 @@ Please cite:
   year={2017}  
 }  
 
-We will upload the anonymized dataset (removing personal information) before the conference.
-
+We will upload the anonymized dataset (removing personal information) and the code for (Threshold, Edmond, MTT and the Transition Based parsers) before the conference.
