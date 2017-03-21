@@ -1,0 +1,4 @@
+scripts/
+results/
+*.pyc
+data/
