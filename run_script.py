@@ -1,7 +1,7 @@
-import pipeline
+import dependency_parsing
 
  
-#script to execute the pipeline of the Malibu project
+#script to execute the dependency parsers of the paper
 if __name__ == "__main__":
        
        configFile="config/config.properties"   
@@ -12,7 +12,7 @@ if __name__ == "__main__":
        models=["transition","mtt","threshold","edmond"]
        for model in models:
            
-           pip=pipeline.pipeline(configFile,graphFeaturesFile,model)
+           pip=dependency_parsing.dependency_parsing(configFile,graphFeaturesFile,model)
              
            for c in c_array:
                               
