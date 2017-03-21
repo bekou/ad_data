@@ -2,8 +2,6 @@ import networkx as nx
 import numpy as np
 import math
 import pandas as pd
-import relationExtraction as rextr
-import matrix_tree_theorem as mtt
 from networkx.drawing.nx_agraph import graphviz_layout
 import matplotlib
 from time import gmtime, strftime
