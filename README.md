@@ -17,7 +17,7 @@ If you use part of the code or the dataset please cite:
 
 ### Pre-requisites ###
 
-The code is written for Python 2.7 and based on the scikit-learn library. Some of the python packages needed to run these files, best installed using *pip*.
+The code is written for Python 2.7. Some of the python packages needed to run these files, best installed using *pip*.
 
 * scikit-learn (machine learning)
 * pandas (Data manipulation)
