@@ -1,12 +1,13 @@
 # eacl-2017-code-dataset
 
-This repository contains code used for dependency parsing and information about how to obtain the dataset presented in:
+This repository contains the code used for dependency parsing and information about how to obtain the dataset presented in:
 
 Reconstructing the house from the ad: Structured prediction on real estate classifieds.
 
 The dataset includes 887,599 property advertisements from a real estate company and three human annotators manually annotated 2,318 ads by creating the property tree of the advertisements.
 
-Please cite:  
+If you use part of the code or part of the dataset please cite:
+  
 @inproceedings{bekoulis:2017-eacl,  
   title={Reconstructing the house from the ad: Structured prediction on real estate classifieds.},  
   author={Bekoulis, Giannis and Deleu, Johannes and Demeester, Thomas and Develder, Chris },  
