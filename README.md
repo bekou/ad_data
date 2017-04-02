@@ -30,4 +30,4 @@ In the repository, one can find the 4 models (Threshold, Edmond, Mtt, Transition
 
 #### Dataset ####
 
-To obtain the anonymized dataset fill in and sign [this](https://github.com/bekou/ad_data/raw/master/agreement/data-agreement.pdf) form. Send it via mail to chris.develder@ugent.be and we will get back to you as soon as possible with information about how to download the anonymized dataset. 
+To obtain the anonymized dataset fill in and sign [this](https://github.com/bekou/ad_data/raw/master/agreement/data-agreement.pdf) form. Follow the instructions and we will get back to you as soon as possible with information about how to download the anonymized dataset. 
