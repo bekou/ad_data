@@ -12,7 +12,7 @@ Please cite:
 @inproceedings{bekoulis:2017-eacl,  
   title={Reconstructing the house from the ad: Structured prediction on real estate classifieds.},  
   author={Bekoulis, Giannis and Deleu, Johannes and Demeester, Thomas and Develder, Chris },  
-  booktitle={EACL},  
+  booktitle={Proc. 15th Conf. Eur. Chapter Assoc. Comput. Ling. (EACL 2017)},  
   year={2017}  
 }  
 
