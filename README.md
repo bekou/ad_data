@@ -4,7 +4,7 @@ This repository contains the code used for dependency parsing and information ab
 
 [Reconstructing the house from the ad: Structured prediction on real estate classifieds](http://users.ugent.be/~ibekouli/papers/eacl2017/bekoulis-eacl2017.pdf).
 
-The dataset includes 887,599 property advertisements from a real estate company and three human annotators manually annotated 2,318 ads by creating the property tree of the advertisements.
+The dataset includes 2,318 manually annotated property advertisements from a real estate company.
 
 If you use part of the code or the dataset please cite:
   
