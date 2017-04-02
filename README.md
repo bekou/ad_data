@@ -1,6 +1,8 @@
 # eacl-2017-code-dataset
 
-The dataset and the code used in the paper 
+# README #
+
+This repository contains code used for dependency parsing and information about how to obtain the dataset presented in:
 
 Reconstructing the house from the ad: Structured prediction on real estate classifieds.
 
@@ -14,4 +16,19 @@ Please cite:
   year={2017}  
 }  
 
-We will upload the anonymized dataset (removing personal information) and the code for (Threshold, Edmond, MTT and the Transition Based parsers) before the conference.
+### Pre-requisites ###
+
+The code is written for Python 2.7 and based on the scikit-learn library. Some of the python packages needed to run these files, best installed using *pip*.
+
+* scikit-learn (machine learning)
+* pandas (Data manipulation)
+* pandas_confusion (performance measures)
+
+#### Dependency parser ####
+
+In the repository, one can find the 4 models (Threshold, Edmond, Mtt, Transition) that we have developed for dependency parsing. One should run the *run_script.py* file that serves as a main function.
+
+#### Dataset ####
+
+To obtain the anonymized dataset fill in and sign this form. Send it via mail to chris.develder@ugent.be and we will get back to you as soon as possible with information about how to download the anonymized dataset. 
+[Contribution guidelines for this project](agreement/sign_agreement.pdf)
