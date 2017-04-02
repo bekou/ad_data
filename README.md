@@ -1,7 +1,5 @@
 # eacl-2017-code-dataset
 
-# README #
-
 This repository contains code used for dependency parsing and information about how to obtain the dataset presented in:
 
 Reconstructing the house from the ad: Structured prediction on real estate classifieds.
