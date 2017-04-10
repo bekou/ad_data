@@ -11,7 +11,7 @@ If you use part of the code or the dataset please cite:
 > @inproceedings{bekoulis:2017-eacl,  
 >   title={Reconstructing the house from the ad: Structured prediction on real estate classifieds.},  
 >   author={Bekoulis, Giannis and Deleu, Johannes and Demeester, Thomas and Develder, Chris },  
->   booktitle={Proc. 15th Conf. Eur. Chapter Assoc. Comput. Ling. (EACL 2017)},  
+>   booktitle={Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics},  
 >   year={2017}  
 > }  
 
