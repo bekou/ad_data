@@ -16,7 +16,7 @@ If you use part of the code or the dataset please cite:
 > year      = {2017},  
 > address   = {Valencia, Spain},  
 > publisher = {Association for Computational Linguistics},  
-> pages     = {274--279},  
+> pages     = {274--279}  
 > }  
 
 
