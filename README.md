@@ -9,16 +9,16 @@ The dataset includes 2,318 manually annotated property advertisements from a rea
 If you use part of the code or the dataset please cite:
   
 > @InProceedings{bekoulis-EtAl:2017:EACLshort,  
-> author    = {Bekoulis, Giannis  and  Deleu, Johannes  and  Demeester, Thomas  and  Develder, Chris},
-> title     = {Reconstructing the house from the ad: Structured prediction on real estate classifieds},
-> booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},
-> month     = {April},
-> year      = {2017},
-> address   = {Valencia, Spain},
-> publisher = {Association for Computational Linguistics},
-> pages     = {274--279},
-> url       = {http://www.aclweb.org/anthology/E17-2044}
-> }
+> author    = {Bekoulis, Giannis  and  Deleu, Johannes  and  Demeester, Thomas  and  Develder, Chris},  
+> title     = {Reconstructing the house from the ad: Structured prediction on real estate classifieds},  
+> booktitle = {Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},  
+> month     = {April},  
+> year      = {2017},  
+> address   = {Valencia, Spain},  
+> publisher = {Association for Computational Linguistics},  
+> pages     = {274--279},  
+> url       = {http://www.aclweb.org/anthology/E17-2044}  
+> }  
 
 
 ### Pre-requisites ###
