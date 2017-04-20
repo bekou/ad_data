@@ -17,8 +17,7 @@ If you use part of the code or the dataset please cite:
 > address   = {Valencia, Spain},  
 > publisher = {Association for Computational Linguistics},  
 > pages     = {274--279},  
-> url       = {http://www.aclweb.org/anthology/E17-2044}  
-> }  
+> url       = {http://www.aclweb.org/anthology/E17-2044 }}  
 
 
 ### Pre-requisites ###
