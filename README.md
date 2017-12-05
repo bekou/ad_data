@@ -30,7 +30,7 @@ The code is written for Python 2.7. Some of the python packages needed to run th
 
 #### Dependency parser ####
 
-In the repository, one can find the 4 models (Threshold, Edmond, Matrix-Tree Theorem (MTT), Transition-based) that we have developed for dependency parsing. One should run the *run_script.py* file that serves as a main function.
+In the repository, one can find the 4 models (Threshold, Edmond, Structured Prediction via the Matrix-Tree Theorem (MTT), Transition-based) that we have developed for dependency parsing. One should run the *run_script.py* file that serves as a main function.
 
 #### Dataset ####
 
