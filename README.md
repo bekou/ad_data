@@ -1,4 +1,4 @@
-# Reconstructing the house from the ad: Structured prediction on real estate classifieds.
+# Reconstructing the house from the ad: Structured prediction on real estate classifieds
 
 This repository contains the code used for dependency parsing and information about how to obtain the dataset presented in the work:
 
